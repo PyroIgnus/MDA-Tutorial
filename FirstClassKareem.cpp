@@ -1,9 +1,9 @@
 #include(iostream);
 #include(Math.h);
 
-Class FirstClassKareem{
+class FirstClassKareem{
 	int firstNumber, secondNumber;
-	public double TestFunction(int parameter1, int parameter2)
+	public double testFunction(int parameter1, int parameter2)
 } Test1
 
 
