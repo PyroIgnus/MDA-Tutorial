@@ -79,7 +79,12 @@ int main(int argc, char *argv[]) {
                 }
                 break;
             case 5:
-
+				if (net == NULL) {
+					printf("You do not have an active Neural Network running.\n");
+				}
+				else {
+					net->trainXOR();
+				}
                 break;
             case 7:
                 read_config("settings.config");
