@@ -24,7 +24,7 @@ int main(int argc, char *argv[]) {
     if (LOGGING)
         file = fopen (buff, "w");
 
-    numNeurons = 0;
+	numNeurons = 0;
 
     NeuralNetwork* net = NULL;
 
