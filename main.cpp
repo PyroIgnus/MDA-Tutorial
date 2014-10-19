@@ -1,7 +1,7 @@
 /*
     Dynamic Artificial Neural Network
     Created by Jonathon Wong
-    Contributors: Rose Li, Adam Suban-Loewen, Andrew Pelegris, Michael Chiou
+    Contributors: Rose Li, Adam Suban-Loewen, Andrew Pelegris, Michael Chiou, Carl Lam
     Date: 2013
 */
 
