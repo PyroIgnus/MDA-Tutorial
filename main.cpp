@@ -8,6 +8,11 @@
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
+
+/*
+	No Comment!!!
+*/
+
 #include <sys/time.h>
 #include "NeuralNetwork.h"
 #include "utils.h"
