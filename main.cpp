@@ -14,6 +14,7 @@
 #include "global.h"
 
 int main(int argc, char *argv[]) {
+	//Inserted Comment Here -James
 
     char buff[50];
     time_t rawtime;
